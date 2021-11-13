@@ -322,7 +322,7 @@ textarea {
     top: 0;
     width: 50%;
     height: 100%;
-    background: #9c7edcbd;
+    background: rgba(156, 126, 220, 0.741);
     padding-top: 100px;
     overflow: auto;
     -webkit-transition: all 0.3s ease 0s;
